@@ -1,4 +1,4 @@
-# $Id: PKGBUILD 92705 2013-06-12 16:03:23Z lcarlier $
+# $Id$
 # Maintainer: Thomas Bächler <thomas@archlinux.org>
 
 _pkgbasename=attr
